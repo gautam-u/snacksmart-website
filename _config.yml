@@ -1,0 +1,61 @@
+#page title
+page_title: SnackSmart - AI-Powered Nutrition Tracking for iOS
+title: SnackSmart
+
+# App Info
+app_icon: /assets/app-icon.png
+app_name: SnackSmart
+app_price: Free with Premium options
+app_description: SnackSmart delivers AI-powered nutrition tracking with instant food recognition, HealthKit sync, and personalized insights — all with privacy-first architecture and flexible monthly or yearly premium subscriptions.
+
+# Store Links
+appstore_link: https://apps.apple.com/us/app/snacksmart/idXXXXXXXXXX
+playstore_link:
+
+# Information About Yourself
+your_name: SnackSmart Team
+your_link: https://github.com/gautam-u
+your_city:
+email_address: sunitha.vaishnavi@gmail.com
+facebook_username:
+instagram_username:
+twitter_username:
+github_username: gautam-u
+youtube_username:
+
+# Feature List
+features:
+  - title: AI-Powered Food Recognition
+    description: Snap a photo and instantly get comprehensive nutrition facts powered by on-device Apple Intelligence.
+    fontawesome_icon_name: camera
+  - title: Smart Nutrition Insights
+    description: Receive personalized recommendations based on your snacking patterns and health goals.
+    fontawesome_icon_name: brain
+  - title: HealthKit Integration
+    description: Seamlessly sync nutrition data with Apple Health for a complete wellness picture.
+    fontawesome_icon_name: heartbeat
+  - title: Unlimited Scan History
+    description: Track every snack with unlimited history. Free users get full access with occasional ads.
+    fontawesome_icon_name: clock-rotate-left
+  - title: Advanced Analytics
+    description: Premium members unlock detailed nutrition trends, macro tracking, and export capabilities.
+    fontawesome_icon_name: chart-line
+  - title: Privacy-First Design
+    description: All data stays on your device. No tracking, no cloud storage, complete privacy control.
+    fontawesome_icon_name: shield-alt
+
+# Theme Settings
+# Remove all custom theme settings and revert to default minima theme
+
+# GitHub Pages settings
+baseurl: "/snacksmart-website"
+url: "https://gautam-u.github.io"
+
+# Jekyll settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Include files that start with underscores or dots
+include:
+  - app-ads.txt
