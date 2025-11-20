@@ -16,7 +16,7 @@ playstore_link:
 your_name: SnackSmart Team
 your_link: https://github.com/gautam-u
 your_city:
-email_address: sunitha.vaishnavi@gmail.com
+email_address:
 facebook_username:
 instagram_username:
 twitter_username:
@@ -48,7 +48,7 @@ features:
 # Remove all custom theme settings and revert to default minima theme
 
 # GitHub Pages settings
-baseurl: "/snacksmart-website"
+baseurl: ""  # Empty for root domain
 url: "https://gautam-u.github.io"
 
 # Jekyll settings
