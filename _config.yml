@@ -9,14 +9,14 @@ app_price: Free with Premium options
 app_description: SnackSmart delivers AI-powered nutrition tracking with instant food recognition, HealthKit sync, and personalized insights — all with privacy-first architecture and flexible monthly or yearly premium subscriptions.
 
 # Store Links
-appstore_link: https://apps.apple.com/us/app/snacksmart/idXXXXXXXXXX
+appstore_link: https://apps.apple.com/us/app/snacksmart/id6755132658
 playstore_link:
 
 # Information About Yourself
 your_name: SnackSmart Team
 your_link: https://github.com/gautam-u
 your_city:
-email_address:
+email_address: gautam.ux@gmail.com
 facebook_username:
 instagram_username:
 twitter_username:
@@ -48,7 +48,7 @@ features:
 # Remove all custom theme settings and revert to default minima theme
 
 # GitHub Pages settings
-baseurl: ""  # Empty for root domain
+baseurl: "/snacksmart-website"  # Site is served from the repo subpath, not the domain root
 url: "https://gautam-u.github.io"
 
 # Jekyll settings
