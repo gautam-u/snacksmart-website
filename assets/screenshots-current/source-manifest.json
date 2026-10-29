@@ -1,0 +1,23 @@
+{
+  "app": "SnackSmart",
+  "version": "1.4.3",
+  "capturedOrVerified": "2026-10-28",
+  "note": "Screens from the latest tested 1.4.3 release candidate using demonstration entries. The current App Store version may differ.",
+  "files": [
+    {
+      "file": "01.png",
+      "source": "snacksmart-today.png",
+      "label": "Today"
+    },
+    {
+      "file": "02.png",
+      "source": "snacksmart-intelligence-2026-10-26/cane-sugar-cravings.png",
+      "label": "Cravings"
+    },
+    {
+      "file": "03.png",
+      "source": "snacksmart-intelligence-2026-10-26/snack-note-preview.png",
+      "label": "Check the note"
+    }
+  ]
+}
