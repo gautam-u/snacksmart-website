@@ -25,27 +25,12 @@ youtube_username:
 
 # Feature List
 features:
-  - title: AI-Powered Food Recognition
-    description: Snap a photo and instantly get comprehensive nutrition facts powered by on-device Apple Intelligence.
-    fontawesome_icon_name: camera
-  - title: Smart Nutrition Insights
-    description: Receive personalized recommendations based on your snacking patterns and health goals.
-    fontawesome_icon_name: brain
-  - title: HealthKit Integration
-    description: Seamlessly sync nutrition data with Apple Health for a complete wellness picture.
-    fontawesome_icon_name: heartbeat
-  - title: Unlimited Scan History
-    description: Track every snack with unlimited history. Free users get full access with occasional ads.
-    fontawesome_icon_name: clock-rotate-left
-  - title: Advanced Analytics
-    description: Premium members unlock detailed nutrition trends, macro tracking, and export capabilities.
-    fontawesome_icon_name: chart-line
-  - title: Privacy-First Design
-    description: All data stays on your device. No tracking, no cloud storage, complete privacy control.
-    fontawesome_icon_name: shield-alt
-
-# Theme Settings
-# Remove all custom theme settings and revert to default minima theme
+  - title: "Capture it once"
+    description: "Type a snack or reuse a recent entry. Adjust the portion and date when you need to."
+  - title: "Start with satisfaction"
+    description: "Find options from your history and optionally record whether they satisfied the craving."
+  - title: "Know what is recorded"
+    description: "See calories and available nutrition information. Missing values stay unknown rather than becoming made-up totals."
 
 # GitHub Pages settings
 baseurl: "/snacksmart-website"  # Site is served from the repo subpath, not the domain root

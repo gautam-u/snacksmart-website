@@ -9,7 +9,7 @@ permalink: /terms/
   <div class="text-center mb-2xl">
     <h1>Terms of Service</h1>
     <p>Please read these terms carefully before using SnackSmart.</p>
-    <p style="font-size: 0.9rem; color: var(--color-text-tertiary); margin-bottom: 0;">Last updated: November 8, 2025</p>
+    <p style="font-size: 0.9rem; color: var(--color-text-tertiary); margin-bottom: 0;">Last updated: October 28, 2026</p>
   </div>
 
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
@@ -62,7 +62,6 @@ permalink: /terms/
       <li>Advanced nutrition analytics</li>
       <li>Data export (CSV/PDF)</li>
       <li>Custom dietary filters</li>
-      <li>Priority AI processing</li>
     </ul>
 
     <h3 style="margin-top: var(--spacing-lg);">Billing and Renewal</h3>
@@ -122,10 +121,10 @@ permalink: /terms/
     <h3 style="margin-top: var(--spacing-lg);">Key Privacy Principles:</h3>
     <ul style="margin-left: var(--spacing-lg);">
       <li>All nutrition data is stored locally on your device</li>
-      <li>No personal data uploaded to servers</li>
+      <li>Optional nutrition lookup, advertising and purchase services process information as described in the Privacy Policy</li>
       <li>Free tier users see ads from Google AdMob</li>
-      <li>Premium users have ad tracking completely disabled</li>
-      <li>You can delete all data by deleting the App</li>
+      <li>Premium provides an ad-free experience</li>
+      <li>Deleting the App removes local records; exported copies and backups are controlled by their destinations</li>
     </ul>
   </div>
 
