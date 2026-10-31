@@ -9,7 +9,7 @@ permalink: /terms/
   <div class="text-center mb-2xl">
     <h1>Terms of Service</h1>
     <p>Please read these terms carefully before using SnackSmart.</p>
-    <p style="font-size: 0.9rem; color: var(--color-text-tertiary); margin-bottom: 0;">Last updated: November 8, 2025</p>
+    <p style="font-size: 0.9rem; color: var(--color-text-tertiary); margin-bottom: 0;">Last updated: October 28, 2026</p>
   </div>
 
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
@@ -62,7 +62,6 @@ permalink: /terms/
       <li>Advanced nutrition analytics</li>
       <li>Data export (CSV/PDF)</li>
       <li>Custom dietary filters</li>
-      <li>Priority AI processing</li>
     </ul>
 
     <h3 style="margin-top: var(--spacing-lg);">Billing and Renewal</h3>
@@ -122,10 +121,10 @@ permalink: /terms/
     <h3 style="margin-top: var(--spacing-lg);">Key Privacy Principles:</h3>
     <ul style="margin-left: var(--spacing-lg);">
       <li>All nutrition data is stored locally on your device</li>
-      <li>No personal data uploaded to servers</li>
+      <li>Optional nutrition lookup, advertising and purchase services process information as described in the Privacy Policy</li>
       <li>Free tier users see ads from Google AdMob</li>
-      <li>Premium users have ad tracking completely disabled</li>
-      <li>You can delete all data by deleting the App</li>
+      <li>Premium provides an ad-free experience</li>
+      <li>Deleting the App removes local records; exported copies and backups are controlled by their destinations</li>
     </ul>
   </div>
 
@@ -257,8 +256,7 @@ permalink: /terms/
 
   <div style="text-align: center; padding: var(--spacing-2xl); background: var(--color-bg-secondary); border-radius: var(--radius-lg);">
     <p style="font-size: 0.9rem; color: var(--color-text-secondary); margin-bottom: var(--spacing-lg);">By using SnackSmart, you acknowledge that you have read and understood these Terms of Service and our <a href="{{ '/privacy-policy' | relative_url }}" style="color: var(--color-primary-blue);">Privacy Policy</a>.</p>
-    <a href="{{ site.appstore_link | default: '#' }}" class="btn btn-primary">
-      <i class="fab fa-apple"></i>
+    <a href="{{ site.appstore_link | default: '#' }}" class="button primary">
       Download SnackSmart
     </a>
   </div>
