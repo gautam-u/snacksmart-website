@@ -256,8 +256,7 @@ permalink: /terms/
 
   <div style="text-align: center; padding: var(--spacing-2xl); background: var(--color-bg-secondary); border-radius: var(--radius-lg);">
     <p style="font-size: 0.9rem; color: var(--color-text-secondary); margin-bottom: var(--spacing-lg);">By using SnackSmart, you acknowledge that you have read and understood these Terms of Service and our <a href="{{ '/privacy-policy' | relative_url }}" style="color: var(--color-primary-blue);">Privacy Policy</a>.</p>
-    <a href="{{ site.appstore_link | default: '#' }}" class="btn btn-primary">
-      <i class="fab fa-apple"></i>
+    <a href="{{ site.appstore_link | default: '#' }}" class="button primary">
       Download SnackSmart
     </a>
   </div>
