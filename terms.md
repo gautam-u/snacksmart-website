@@ -247,9 +247,9 @@ permalink: /terms/
 
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
     <h2>14. Contact Information</h2>
-    <p>If you have questions about these Terms, please contact us:</p>
+    <p>If you have questions about these Terms, use the App Store review page:</p>
     <p style="margin-top: var(--spacing-lg);">
-      <strong>Email:</strong> <a href="mailto:{{ site.email_address }}" style="color: var(--color-primary-blue);">{{ site.email_address }}</a><br>
+      <strong>Feedback:</strong> <a href="https://apps.apple.com/app/id6755132658?action=write-review">Write an App Store review</a>. Reviews are public.<br>
       <strong>Support:</strong> <a href="{{ '/support' | relative_url }}" style="color: var(--color-primary-blue);">SnackSmart Support Page</a>
     </p>
   </div>
